@@ -1,0 +1,12 @@
+/Users/gogadanelia/Projects/5.1.2/5.1.2/bin/Debug/netcoreapp3.1/5.1.2.deps.json
+/Users/gogadanelia/Projects/5.1.2/5.1.2/bin/Debug/netcoreapp3.1/5.1.2.runtimeconfig.json
+/Users/gogadanelia/Projects/5.1.2/5.1.2/bin/Debug/netcoreapp3.1/5.1.2.runtimeconfig.dev.json
+/Users/gogadanelia/Projects/5.1.2/5.1.2/bin/Debug/netcoreapp3.1/5.1.2.dll
+/Users/gogadanelia/Projects/5.1.2/5.1.2/bin/Debug/netcoreapp3.1/5.1.2.pdb
+/Users/gogadanelia/Projects/5.1.2/5.1.2/obj/Debug/netcoreapp3.1/5.1.2.csprojAssemblyReference.cache
+/Users/gogadanelia/Projects/5.1.2/5.1.2/obj/Debug/netcoreapp3.1/5.1.2.AssemblyInfoInputs.cache
+/Users/gogadanelia/Projects/5.1.2/5.1.2/obj/Debug/netcoreapp3.1/5.1.2.AssemblyInfo.cs
+/Users/gogadanelia/Projects/5.1.2/5.1.2/obj/Debug/netcoreapp3.1/5.1.2.csproj.CoreCompileInputs.cache
+/Users/gogadanelia/Projects/5.1.2/5.1.2/obj/Debug/netcoreapp3.1/5.1.2.dll
+/Users/gogadanelia/Projects/5.1.2/5.1.2/obj/Debug/netcoreapp3.1/5.1.2.pdb
+/Users/gogadanelia/Projects/5.1.2/5.1.2/obj/Debug/netcoreapp3.1/5.1.2.genruntimeconfig.cache
